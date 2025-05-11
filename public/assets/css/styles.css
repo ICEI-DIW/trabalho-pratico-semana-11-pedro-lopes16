@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .card-img-top {
+    height: 240px;
+    object-fit: cover;
+  }
+  
+  #carouselExampleIndicators {
+    max-width: 600px;
+  }
+  
+  .carousel-inner img {
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  .img-detalhes {
+    display: block;
+    margin: 20px auto; /* centraliza horizontalmente */
+    max-width: 500px;   /* limita a largura máxima */
+    width: 100%;        /* faz se adaptar a telas menores */
+    height: auto;       /* mantém proporção da imagem */
+  }
+  
