@@ -1,14 +1,31 @@
 {
-  "usuarios": [
+  "receitas": [
     {
       "id": 1,
-      "nome": "Ana Souza",
-      "email": "ana@example.com"
+      "titulo": "Bolo de cenoura",
+      "imagem": "cenoura.jpg",
+      "categoria": "Bolos fáceis",
+      "descricao": "O bolo de cenoura com cobertura de brigadeiro, um clássico brasileiro, tem uma massa fofinha e levemente adocicada por causa da cenoura e coberto por uma camada cremosa e chocolatuda de brigadeiro. A combinação do sabor suave do bolo com o chocolate intenso da cobertura torna essa sobremesa irresistível.",
+      "ingredientes": "270g de CENOURAS\n200ml de ÓLEO DE GIRASSOL\n3 OVOS\n360g de AÇÚCAR\n240g de FARINHA DE TRIGO\n8g de FERMENTO EM PÓ\n1 caixa LEITE CONDENSADO\n1 caixa CREME DE LEITE\n30g CACAU EM PÓ",
+      "modoPreparo": "Massa:\n1- Unte e enfarinhe uma forma de bolo.\n2- Bata as cenouras, o óleo, os ovos e o açúcar no liquidificador até ficar homogêneo.\n3- Coloque em uma tigela e acrescente a farinha e o fermento peneirados. Misture.\n4- Leve para assar a 180˚C por aproximadamente 50 minutos.\n\nCobertura:\n1- Misture leite condensado, creme de leite e cacau em pó em uma panela.\n2- Leve ao fogo médio até ferver.\n3- Deixe esfriar e reserve."
     },
     {
       "id": 2,
-      "nome": "Bruno Lima",
-      "email": "bruno@example.com"
+      "titulo": "Banana Bread",
+      "imagem": "banana.jpg",
+      "categoria": "Bolos de frutas",
+      "descricao": "O banana bread é um bolo macio e úmido feito com bananas beeem maduras, ideal para aproveitar frutas que passaram do ponto. Tem sabor adocicado na medida certa, textura densa e amanteigada e é perfeito para o lanche da tarde. Canela é opcional, mas dá um toque especial.",
+      "ingredientes": "100g de MANTEIGA\n200g de AÇÚCAR CRISTAL\n2 OVOS\n15ml de EXTRATO DE BAUNILHA\n3 BANANAS médias\n170g de IOGURTE NATURAL\n300g de FARINHA DE TRIGO\n8g de BICARBONATO DE SÓDIO\n8g de FERMENTO QUÍMICO\n10g de CHOCOLATE EM PÓ\n3g de SAL\nCANELA EM PÓ a gosto\n200g de CHOCOLATE MEIO AMARGO picado",
+      "modoPreparo": "Massa:\n1- Bata manteiga e açúcar até formar um creme fofo. Adicione os ovos um a um.\n2- Amasse as bananas e misture no creme.\n3- Acrescente iogurte e baunilha.\n4- Misture os secos (farinha, fermento, bicarbonato, chocolate em pó, sal e canela) e incorpore ao creme.\n5- Misture o chocolate picado e asse a 180°C por 50 minutos."
+    },
+    {
+      "id": 3,
+      "titulo": "Brownie",
+      "imagem": "brownie.jpg",
+      "categoria": "Sobremesas",
+      "descricao": "O brownie, doce de origem americana com textura densa e úmida, combina o sabor intenso do chocolate com uma casquinha crocante por cima. Pode incluir pedaços de nozes e é perfeito servido quentinho com uma bola de sorvete ou recheado.",
+      "ingredientes": "180g de CHOCOLATE AO LEITE derretido\n150g de MANTEIGA\n3 OVOS\n300g de AÇÚCAR\n150g de FARINHA DE TRIGO\n15g de CACAU EM PÓ\n4g de FERMENTO QUÍMICO\n2g de SAL\n100g de NOZES picadas",
+      "modoPreparo": "Massa:\n1- Bata ovos e açúcar até espumar.\n2- Adicione farinha e cacau em pó.\n3- Derreta chocolate e manteiga, misture ao creme.\n4- Acrescente sal, fermento e nozes.\n5- Leve para assar a 180°C por 30 a 35 minutos."
     }
   ]
 }
