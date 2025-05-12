@@ -4,10 +4,10 @@ Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenv
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: PEDRO LUIS GONÇALVES LOPES  
+- Matricula: 891425
+- Proposta de projeto escolhida: LIVRO DE RECEITAS
+- Breve descrição sobre seu projeto: SITE DE RECEITAS PARA PROJETO DIW1
 
 **Print do teste da API com visualização do JSON**
 
@@ -16,7 +16,8 @@ Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenv
 
 **Print da aba NETWORK com requisições Fetch/XHR**
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image-2.png)
+![alt text](image-3.png)
 
 ## **Orientações Gerais**
 
